@@ -93,8 +93,6 @@ https://24uiyf4bn6.execute-api.us-east-1.amazonaws.com/Beta?value=14
 196
 ```
 
-![Pretty print](Pretty-print.png)
-
 ## Tipos de Datos Soportados
 
 AWS Lambda con Java soporta:
